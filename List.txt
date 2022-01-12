@@ -1,0 +1,26 @@
+- create project
+- cleanup code
+- import 'mdb-react-ui-kit/dist/css/mdb.min.css'
+- "server": "json-server --watch db.json --port 5000"
+- create Route
+- create Header
+- cretae file actions actionType api reducer rootReducer userSaga store
+- add code userReducer
+- add code rootReducer
+- add code Home
+- add code AddEditUser
+- add code actionType
+- add code actions
+- add code api
+- add code reducer
+- add code userSaga
+- add code actionType
+- add code actions
+- add code api
+- add code reducer
+- add code Home Delete Function
+- add code AddEditUser
+- add code actionType
+- add code actions
+- add code reducer
+- add code userSaga

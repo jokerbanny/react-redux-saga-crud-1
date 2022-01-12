@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Node js",
+      "email": "demo@gmail.com",
+      "phone": "222-222-2222",
+      "address": "pakse, pakse",
+      "id": "w1xgCwLPrz2WxBKKBwizl"
+    },
+    {
+      "name": "joker banny",
+      "email": "jokerbanny@gmail.com",
+      "phone": "999-999-999",
+      "address": "pakse, pakse",
+      "id": "qVoAj_hXNrpvbwpfh-kFy"
+    },
+    {
+      "name": "kinew",
+      "email": "bornskill.my@gmail.com",
+      "phone": "222-222-2222",
+      "address": "pakse, pakse",
+      "id": "9kpZNp23d3rGohOwDIoI7"
+    }
+  ]
+}
